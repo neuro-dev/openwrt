@@ -1,4 +1,4 @@
-name: Build all core packages
+name: Build all core package
 
 on:
   pull_request:
