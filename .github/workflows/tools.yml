@@ -23,5 +23,5 @@ concurrency:
 
 jobs:
   build-tools:
-    name: Build host tools for linux and macos based systems
+    name: Build host tools for linux and macos based system
     uses: openwrt/actions-shared-workflows/.github/workflows/tools.yml@main
